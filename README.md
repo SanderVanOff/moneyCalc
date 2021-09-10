@@ -20,6 +20,6 @@
   - сохранение результатов в Local Storage;
   - страница добавлена на GitHub
 
-Ссылка: https://sanderbest.github.io/moneyCalc/
+Ссылка: https://sandervanoff.github.io/moneyCalc/
 
 ![YRzPBH_lzMATuXXq](https://user-images.githubusercontent.com/61217980/129871789-2075d665-548e-4da1-b5dd-d1961311c02e.png)
